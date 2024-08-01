@@ -1,12 +1,24 @@
 # MindSync: A Second Brain Assistant for people with Neurodegenerative diseases
 
 ## Install Instructions
-1. Download conda at: [Anaconda Website]{https://www.anaconda.com/download}
-2. Create an environment: ```bash conda create -n mindsync python=3.9```
-3. Activate environment: ```bash conda activate mindsync```
-4. Use pip to install required libraries: ```bash pip install -r requirements.txt```
+1. Download conda at: [Anaconda Website](https://www.anaconda.com/download)
+2. Create an environment: 
+```bash 
+conda create -n mindsync python=3.9
+```
+3. Activate environment: 
+```bash 
+conda activate mindsync
+```
+4. Use pip to install required libraries: 
+```bash 
+pip install -r requirements.txt
+```
 5. Clone the repo
-6. Run the code: ```bash python main.py```
+6. Run the code: 
+```bash 
+python main.py
+```
 
 ## What problem are you going to solve?
 More than 50 million people worldwide are affected by neurodegenerative diseases. Our solution, MindSync, is a Second Brain Assistant designed to transform their daily lives. With a focus on empowering individuals facing cognitive challenges, MindSync enhances cognitive capabilities, streamlines information management, and promotes a renewed sense of independence. Tailored for personalization, it adapts to unique needs, offering intuitive features for organizing tasks, managing schedules, and facilitating seamless information retrieval. MindSync goes beyond being a mere tool; it's a dedicated companion committed to improving the quality of life for those navigating neurodegenerative conditions, providing essential support, and fostering a more empowered and fulfilling daily experience.
