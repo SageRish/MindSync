@@ -1,0 +1,6 @@
+.env
+/dist
+main.spec
+test.py
+test1.py
+/__pycache__/
